@@ -31,4 +31,41 @@ Este projeto é uma **Landing Page de Receita** desenvolvida para praticar conce
 
 Principais desafios superados:
 - Importação e uso de fontes externas (Google Fonts).
-- Centralização de layout (`margin
+- Centralização de layout (`margin: 0 auto` com largura fixa).
+- Manipulação de imagens de fundo (`background-image`).
+- Organização de listas e espaçamentos.
+
+## 🎨 Layout
+
+O layout foi pensado para simular um cartão de receitas ou um livro de culinária clássico.
+
+- **Paleta de Cores:**
+  - Background Geral: Imagem texturizada
+  - Cartão da Receita: `#F0E8C2` (Creme)
+  - Textos Principais: `#573A37` (Marrom Café)
+  - Títulos: `#291B1A` (Café Escuro)
+
+## 📂 Estrutura de Pastas
+
+```bash
+projeto-pag-receita/
+├── assets/
+│   ├── main-image.jpg      # Foto do Cupcake
+│   └── Página de receita.jpg # Background
+├── index.html              # Estrutura da página
+├── style.css               # Estilos visuais
+└── README.md               # Documentação
+```
+🔧 Como Executar
+Não é necessário instalar nenhuma dependência. Para visualizar o projeto:
+
+Baixe o repositório ou clone usando Git:
+
+````bash
+
+git clone [https://github.com/DEV-JOTAPE11/nome-do-seu-repositorio.git](https://github.com/DEV-JOTAPE11/nome-do-seu-repositorio.git)
+Entre na pasta do projeto.
+````
+Dê um duplo clique no arquivo index.html para abrir no seu navegador.
+
+Feito com 🤎 por João Pedro 👋 Visite meu perfil!
